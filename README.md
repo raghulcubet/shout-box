@@ -2,7 +2,7 @@
 
 ## Install Meteor
 
-Go to https://www.meteor.com/install follow instataion instractions
+Go to https://www.meteor.com/install follow installation instructions
 
 ## Dependencies installation
 
